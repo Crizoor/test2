@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Test_delegate\Test_delegate\bin\Debug\Test_delegate.exe.config
+C:\Users\User\source\repos\Test_delegate\Test_delegate\bin\Debug\Test_delegate.exe
+C:\Users\User\source\repos\Test_delegate\Test_delegate\bin\Debug\Test_delegate.pdb
+C:\Users\User\source\repos\Test_delegate\Test_delegate\obj\Debug\Test_delegate.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Test_delegate\Test_delegate\obj\Debug\Test_delegate.exe
+C:\Users\User\source\repos\Test_delegate\Test_delegate\obj\Debug\Test_delegate.pdb
